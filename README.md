@@ -21,4 +21,4 @@ Then visit `http://localhost:8000`.
 5. Output directory can remain blank/default.
 6. Deploy.
 
-The same deployment is responsive across desktop and mobile.
+The same deployment is responsive across desktop and mobile.  
